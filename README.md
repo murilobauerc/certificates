@@ -1,4 +1,4 @@
-# Certificates and courses during my career as software engineer:
+## Certificates and courses that I've been working with during my career as software engineer:
 
 
 
