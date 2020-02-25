@@ -8,7 +8,7 @@ todo: add a "description" column to detail more about each one of the courses:
 | Data Science | [Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)| Udacity | [Apr/18](https://graduation.udacity.com/confirm/CNXXJKT5) |
 | UX Design | UI/UX Design at ESPM | ESPM |  Oct/19  |
 | TDD/BDD | TDD and BDD workshop| AdaptWorks |  [July/19](https://imgur.com/x96KNx4)  |
-| Spring Boot Microservices with Spring Cloud | [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru) | Udemy |  to finish  |
+| Java + Spring Boot| [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru) | Udemy |  to finish  |
 | **(Doing)** React | [Modern React with Redux](https://www.udemy.com/react-redux/) | Udemy | to finish |
 | **(Doing)** Javascript | [Modern web course with Javascript 2019](https://www.udemy.com/curso-web/learn/v4/overview) | Udemy | to finish 
 
