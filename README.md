@@ -1,5 +1,5 @@
-## Certificates and courses that I've been working with during my career as software engineer:
-
+## Certificates and courses:
+todo: add a "description" column to detail more about each one of the courses:
 
 
 | Subject          | Course Name                          | Institution          | Finish date |
